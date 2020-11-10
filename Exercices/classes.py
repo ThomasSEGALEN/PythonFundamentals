@@ -69,11 +69,43 @@
 
 
 # Ex 7
+# class addCarre:
 
+#     def __init__(self, carre1, carre2):
+#         self.carre1 = carre1
+#         self.carre2 = carre2
+#         carre1 = Carre(2)
+#         carre2 = Carre(3)
 
+#     def __add__(self, other):
+#         carre = addCarre(self.carre1 + other.carre2)
+#         print(c.carre)
+
+# if __name__ == "__main__":
+#     c = Carre(0)
+#     print(c.carre)
 
 # Ex 8
+# class subCarre:
 
+#     def __init__(self, carre1, carre2):
+#         self.carre1 = carre1
+#         self.carre2 = carre2
+#         carre1 = Carre(2)
+#         carre2 = Carre(3)
+
+#     def __sub__(self, other):
+#         carre = addCarre(self.carre1 + other.carre2)
+#         print(c.carre)
+
+# if __name__ == "__main__":
+#     c = Carre(0)
+#     print(c.carre)
 
 
 # Ex 9
+
+
+
+# Ex 10
+
